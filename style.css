@@ -25,7 +25,7 @@ header {
 header .logo {
     height: inherit;
     width: 200px;
-    background-image: url('/images/cover2.jpg');
+    background-image: url('images/cover2.jpg');
     background-size: 100% 100%;
 }
 
@@ -60,7 +60,7 @@ header .logo {
 }
 
 .home .home-img {
-    background-image: url('/images/home-img.jpg');
+    background-image: url('images/home-img.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -125,7 +125,7 @@ header .logo {
 }
 
 .about .about-img {
-    background-image: url('/images/about-img.jpg');
+    background-image: url('images/about-img.jpg');
     background-size: 100% 120%;
     background-repeat: no-repeat;
     /* object-fit: cover;
@@ -142,13 +142,13 @@ header .logo {
 }
 
 .experience .experience-img {
-    background-image: url('/images/experience-img.jpg');
+    background-image: url('images/experience-img.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .experience .experience-img2 {
-    background-image: url('/images/education-img.jpg');
+    background-image: url('images/education-img.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -179,7 +179,7 @@ header .logo {
 } */
 
 .contact .contact-img {
-    background-image: url('/images/contact-img.jpg');
+    background-image: url('images/contact-img.jpg');
     background-size: 100% 125%;
     background-repeat: no-repeat;
 }
